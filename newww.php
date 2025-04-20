@@ -88,15 +88,15 @@
   <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-database.js"></script>
   <script>
     const firebaseConfig = {
-  apiKey: "AIzaSyBa186Bp6rjODJnjNiP4CSg4O-qXg0zAYE",
-  authDomain: "glaamsquard.firebaseapp.com",
-  databaseURL: "https://glaamsquard-default-rtdb.firebaseio.com",
-  projectId: "glaamsquard",
-  storageBucket: "glaamsquard.appspot.com",
-  messagingSenderId: "1006973627746",
-  appId: "1:1006973627746:web:a519d85160d2724cb5103b",
-  measurementId: "G-J1Z93Q9MCZ"
-};
+            apiKey: "########################",
+            authDomain: "########################",
+            databaseURL: "########################",
+            projectId: "########################",
+            storageBucket: "########################",
+            messagingSenderId: "########################",
+            appId: "########################",
+            measurementId: "########################"
+        };
 
     firebase.initializeApp(firebaseConfig);
     const database = firebase.database();
